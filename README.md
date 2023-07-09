@@ -12,8 +12,8 @@ Sample Questions:
 7. Which channelis contributing to maximum sales?
 
 Insights:
-Womens are more likely to buy compared to men(~65%)
-Maharastra, Karnataka & Uttar Pradesh are the top 3 states(~35%)
-Adult age group(30-49 yrs) is maximum contributing(~50%)
-Amazon, Flipkart and Myntra channels are maximum contributing(~80%)
+1. Womens are more likely to buy compared to men(~65%)
+2. Maharastra, Karnataka & Uttar Pradesh are the top 3 states(~35%)
+3. Adult age group(30-49 yrs) is maximum contributing(~50%)
+4. Amazon, Flipkart and Myntra channels are maximum contributing(~80%)
 
